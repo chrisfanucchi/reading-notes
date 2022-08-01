@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+# This is my reading notes repo!
 
-You can use the [editor on GitHub](https://github.com/Vigilos/reading-notes/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## About Me
+I have been programming since the third grade, learning hexadecimal and binary right alongside decimal as a young kid. I programmed in several languages of the years, to include Assembly/Machine Code, Pascal, Visual Basic for Application, Java, and Python. However, the information technology require recency. Thus, I am here brushing up on my skillset and learning what's new in the industry of software development. :smile:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Class Notes
+#### Growth Mindset
+Growth Mindset is a method for articulating a progressive means of acquiring and using knowledge. In incorporates a positive view of the rejects stagnation during the learning process and embraces a "Can Do / Will Do" methodology.
 
-### Markdown
+3 reminders for growth mindset
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- In order to achieve success, it helps to be willing to contiuously learn new things 
+- One learns best through failing and overcoming those failures
+- As they say in a hacker class I took, "_Try harder_" - Believe you can, seek out the answers and don't be afraid to ask for help
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Vigilos/reading-notes/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Link to my github portfolio [https://github.com/Vigilos](https://github.com/Vigilos)
