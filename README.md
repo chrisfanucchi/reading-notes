@@ -1,3 +1,5 @@
+![This is an image](./reading-notes/DSC_0028.jpg)
+
 # This is my reading notes repo!
 
 ## About Me
