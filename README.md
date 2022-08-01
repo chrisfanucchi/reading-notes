@@ -18,4 +18,4 @@ Growth Mindset is a method for articulating a progressive means of acquiring and
 
 Link to my github portfolio [https://github.com/Vigilos](https://github.com/Vigilos)
 
-[^1]: Waves crashing off the California coast
+[^1]: Waves crashing off the California coast, from a trip to the Monterey area
