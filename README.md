@@ -1,5 +1,5 @@
 
-<img src="DSC_0028.JPG" width=200 align=center>
+<img src="DSC_0028.JPG" width=200 align=center>[^1]
 
 # This is my reading notes repo!
 
@@ -17,3 +17,5 @@ Growth Mindset is a method for articulating a progressive means of acquiring and
 - As they say in a hacker class I took, "_Try harder_" - Believe you can, seek out the answers and don't be afraid to ask for help
 
 Link to my github portfolio [https://github.com/Vigilos](https://github.com/Vigilos)
+
+[^1]: Waves crashing off the California coast
