@@ -1,7 +1,7 @@
 
 <img src="DSC_0028.JPG" width=200 align=center>[^1]
 
-# This is my reading notes repo!
+# My Reading Notes Repo!
 
 ## About Me
 I have been programming since the third grade, learning hexadecimal and binary right alongside decimal as a young kid. I programmed in several languages over the years, to include Assembly/Machine Code, Pascal, Visual Basic for Application, Java, and Python. However, the information technology require recency. Thus, I am here brushing up on my skillset and learning what's new in the industry of software development. :smile:
