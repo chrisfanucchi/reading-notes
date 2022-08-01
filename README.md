@@ -1,4 +1,5 @@
-![This is an image](./reading-notes/DSC_0028.jpg)
+
+<img src="DSC_0028.JPG" width=200 align=center>
 
 # This is my reading notes repo!
 
