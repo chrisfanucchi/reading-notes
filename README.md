@@ -8,7 +8,7 @@ I have been programming since the third grade, learning hexadecimal and binary r
 
 ## Class Notes
 #### Growth Mindset
-Growth Mindset is a method for articulating a progressive means of acquiring and using knowledge. In incorporates a positive view of the rejects stagnation during the learning process and embraces a "Can Do / Will Do" methodology.
+Growth Mindset is a method for articulating a progressive means of acquiring and using knowledge. In incorporates a positive view that rejects stagnation during the learning process and embraces a "Can Do / Will Do" methodology.
 
 3 reminders for growth mindset
 
