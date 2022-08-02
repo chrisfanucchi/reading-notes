@@ -10,6 +10,7 @@ I have been programming since the third grade, learning hexadecimal and binary r
 
 - [Growth Mindset](mindset.md)
 - [Reading 1 - Learning Markdown](reading1.md)
+- [Reading 4 - HTML Web Page Structure](reading4.md)
 
 ##### Link to my github portfolio [https://github.com/Vigilos](https://github.com/Vigilos)
 
