@@ -1,6 +1,6 @@
 # My Class Notes Repo for Code 102
 
-<img src="DSC_0028.JPG" width=175 align=left>[^1]
+<img src="DSC_0028.JPG" width=180 align=left>[^1]
 
 ## About Me
 
@@ -11,6 +11,6 @@ I have been programming since the third grade, learning hexadecimal and binary r
 - [Growth Mindset](mindset.md)
 - [Reading 1 - Learning Markdown](reading1.md)
 
-#### Link to my github portfolio [https://github.com/Vigilos](https://github.com/Vigilos)
+##### Link to my github portfolio [https://github.com/Vigilos](https://github.com/Vigilos)
 
 [^1]: Waves crashing off the California coast, from a trip to the Monterey area
