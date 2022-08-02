@@ -17,7 +17,7 @@ Growth Mindset is a method for articulating a progressive means of acquiring and
 - As they say in a hacker class I took, "_Try harder_" - Believe you can, seek out the answers and don't be afraid to ask for help
 
 ## Reading Notes
-[Reading 1](https://vigilos.github.io/reading-notes/class1)
+[Reading 1](class1.md)
 
 
 
