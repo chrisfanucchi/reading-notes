@@ -1,6 +1,6 @@
 # My Class Notes Repo for Code 102
 
-<img src="DSC_0028.JPG" width=100 align=left>[^1]
+<img src="DSC_0028.JPG" width=150 align=left>[^1]
 
 ## About Me
 
