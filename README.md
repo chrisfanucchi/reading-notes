@@ -9,6 +9,7 @@ I have been programming since the third grade, learning hexadecimal and binary r
 ## Class Notes
 
 [Growth Mindset](mindset.md)
+
 [Reading 1 - Learning Markdown](reading1.md)
 
 Link to my github portfolio [https://github.com/Vigilos](https://github.com/Vigilos)
