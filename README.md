@@ -15,6 +15,7 @@ I have been programming since the third grade, learning hexadecimal and binary r
 - [Reading 4 - HTML Web Page Structure](reading4.md)
 - [Reading 5 - Design Web Pages with CSS](reading5.md)
 - [Reading 6 - Dynamic Web Pages with JavaScript](reading6.md)
+- [Reading 7 - Programming with JavaScript](reading7.md)
 
 ##### Link to my github portfolio [https://github.com/Vigilos](https://github.com/Vigilos)
 
