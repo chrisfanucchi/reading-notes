@@ -40,6 +40,6 @@ I have been programming since the third grade, learning hexadecimal and binary r
 
 ---
 
-##### Link to my github portfolio [https://github.com/Vigilos](https://github.com/Vigilos)
+#### Link to my github portfolio [https://github.com/Vigilos](https://github.com/Vigilos)
 
 [^1]: Waves crashing off the California coast, from a trip I took to the Monterey area
