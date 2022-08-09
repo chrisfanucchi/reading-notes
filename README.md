@@ -4,7 +4,7 @@
 
 ## About Me
 
-I have been programming since the third grade, learning hexadecimal and binary right alongside decimal as a young child. I have developed applications in several languages over the years, to include Assembly/Machine Code, Pascal, Visual Basic for Application, Java, PHP, HTML/CSS,and Python.
+I have been programming since the third grade, learning hexadecimal and binary right alongside decimal as a young child. I have developed applications in several languages over the years, to include Assembly/Machine Code, Pascal, Visual Basic for Application, Java, PHP, HTML/CSS, and Python.
 
 ## Class Notes
 
