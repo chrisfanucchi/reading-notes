@@ -8,12 +8,6 @@ I have been programming since the third grade, learning hexadecimal and binary r
 
 ## Class Notes
 
-| Code 102                                                       |
-| :------------------------------------------------------------- |
-| [Growth Mindset](mindset.md)                                   |
-| [Reading 1 - Learning Markdown](reading1.md)                   |
-| [Reading 2 - The Coder’s Computer (Text Editors)](reading2.md) |
-
 ### Code 102
 
 - [Growth Mindset](mindset.md)
