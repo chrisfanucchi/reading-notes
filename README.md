@@ -1,4 +1,4 @@
-# My Class Notes Repo for Code 102
+# Class Notes for Code Fellows Full-Stack JavaScript Course
 
 <img src="DSC_0028.JPG" width=200 align=bottom />[^1]
 
