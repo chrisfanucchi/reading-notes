@@ -13,7 +13,9 @@ I have been programming since the third grade, learning hexadecimal and binary r
 <!--All you need is a blank line-->
 
 - [Growth Mindset](mindset.md)
+
 - [Reading 1 - Learning Markdown](reading1.md)
+
 - [Reading 2 - The Coder’s Computer (Text Editors)](reading2.md)
 - [Reading 3 - Git: Revisions and the Cloud](reading3.md)
 - [Reading 4 - HTML Web Page Structure](reading4.md)
