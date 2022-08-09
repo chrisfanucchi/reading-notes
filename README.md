@@ -8,14 +8,10 @@ I have been programming since the third grade, learning hexadecimal and binary r
 
 ## Class Notes
 
-<details>
-<summary>Code 102</summary>
-<!--All you need is a blank line-->
+### Code 102
 
 - [Growth Mindset](mindset.md)
-
 - [Reading 1 - Learning Markdown](reading1.md)
-
 - [Reading 2 - The Coder’s Computer (Text Editors)](reading2.md)
 - [Reading 3 - Git: Revisions and the Cloud](reading3.md)
 - [Reading 4 - HTML Web Page Structure](reading4.md)
@@ -24,10 +20,7 @@ I have been programming since the third grade, learning hexadecimal and binary r
 - [Reading 7 - Programming with JavaScript](reading7.md)
 - [Reading 8 - Operators and Loop](reading8.md)
 
-</details>
-<details>
-<summary>Code 201</summary>
-<!--All you need is a blank line-->
+### Code 201
 
 - [Reading 1](coming-soon.md)
 - [Reading 2](coming-soon.md)
@@ -44,8 +37,6 @@ I have been programming since the third grade, learning hexadecimal and binary r
 - [Reading 13](coming-soon.md)
 - [Reading 14](coming-soon.md)
 - [Reading 15](coming-soon.md)
-
-</details>
 
 ---
 
