@@ -4,9 +4,13 @@
 
 ## About Me
 
-I have been programming since the third grade, learning hexadecimal and binary right alongside decimal as a young kid. I programmed in several languages over the years, to include Assembly/Machine Code, Pascal, Visual Basic for Application, Java, and Python. However, the information technology require recency. Thus, I am here brushing up on my skillset and learning what's new in the industry of software development. :smile:
+I have been programming since the third grade, learning hexadecimal and binary right alongside decimal as a young child. I have developed applications in several languages over the years, to include Assembly/Machine Code, Pascal, Visual Basic for Application, Java, PHP, HTML/CSS,and Python.
 
 ## Class Notes
+
+<details>
+<summary>Code 102</summary>
+<!--All you need is a blank line-->
 
 - [Growth Mindset](mindset.md)
 - [Reading 1 - Learning Markdown](reading1.md)
@@ -18,6 +22,31 @@ I have been programming since the third grade, learning hexadecimal and binary r
 - [Reading 7 - Programming with JavaScript](reading7.md)
 - [Reading 8 - Operators and Loop](reading8.md)
 
+</details>
+<details>
+<summary>Code 201</summary>
+<!--All you need is a blank line-->
+
+- [Reading 1](coming-soon.md)
+- [Reading 2](coming-soon.md)
+- [Reading 3](coming-soon.md)
+- [Reading 4](coming-soon.md)
+- [Reading 5](coming-soon.md)
+- [Reading 6](coming-soon.md)
+- [Reading 7](coming-soon.md)
+- [Reading 8](coming-soon.md)
+- [Reading 9](coming-soon.md)
+- [Reading 10](coming-soon.md)
+- [Reading 11](coming-soon.md)
+- [Reading 12](coming-soon.md)
+- [Reading 13](coming-soon.md)
+- [Reading 14](coming-soon.md)
+- [Reading 15](coming-soon.md)
+
+</details>
+
+---
+
 ##### Link to my github portfolio [https://github.com/Vigilos](https://github.com/Vigilos)
 
-[^1]: Waves crashing off the California coast, from a trip to the Monterey area
+[^1]: Waves crashing off the California coast, from a trip I took to the Monterey area
