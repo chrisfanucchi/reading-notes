@@ -68,7 +68,7 @@ Define the object and intent for the website.
 
 2. What is the most important question to answer when designing a Website?
 
-What exactly do I want to accomplish?[^1]
+What exactly do I want to accomplish? [^1]
 
 ## Semantics
 
@@ -97,4 +97,4 @@ I’m actually pretty good for right now.
 
 ---
 
-[^1] “How do I start to design my website?”, [https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Thinking_before_coding](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Thinking_before_coding)
+[^1]: “How do I start to design my website?”, [https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Thinking_before_coding](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Thinking_before_coding)
