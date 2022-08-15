@@ -22,7 +22,7 @@ I have been programming since the third grade, learning hexadecimal and binary r
 
 ### Code 201
 
-- [Reading 1](coming-soon.md)
+- [Reading 1](reading201-1.md)
 - [Reading 2](coming-soon.md)
 - [Reading 3](coming-soon.md)
 - [Reading 4](coming-soon.md)
