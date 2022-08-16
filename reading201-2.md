@@ -74,7 +74,7 @@
 
    Equal to, Strict Equal to, Greater than.
 
-4. What is the difference between the logical operator && and ||?
+4. What is the difference between the logical operator && and \|\|?
 
    && - Chains two or more expressions together and when ALL are true, it returns true, else false
-   || - Chains two or more expressions together and when ANY are true, it returns true, else false
+   \|\| - Chains two or more expressions together and when ANY are true, it returns true, else false
