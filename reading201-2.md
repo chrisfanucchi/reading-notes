@@ -33,10 +33,15 @@
 3. Review the block of code below and answer the following questions:
 
 - What is representing the selector?
+
   h2
+
 - Which components are the CSS declarations?
+
   color: black, padding: 5px
+
 - Which components are considered properties?
+
   color, padding
 
   ```CSS
