@@ -62,7 +62,7 @@
 
 ## Making Decisions In Your Code – Conditionals
 
-1. An if statement checks a ** and if it evaluates to \_**, then the code block will execute.
+1. An if statement checks a \_\_\_\_ and if it evaluates to \_\_\_\_, then the code block will execute.
 
    Condition, True.
 
