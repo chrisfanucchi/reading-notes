@@ -41,7 +41,7 @@
 
 2. Is the people array a valid JavaScript array? If so, how can I access the values stored? If not, why?
 
-Yes, values from an array that are stored in an array can be accessed by using addition brackets that contact the index of the value desire. For example, 'Smith' can be retrieved using: people[1][0].
+   Yes, values from an array that are stored in an array can be accessed by using addition brackets that contact the index of the value desire. For example, 'Smith' can be retrieved using: people[1][0].
 
 ```js
 const people = [
@@ -75,8 +75,8 @@ a + c + b;
 
 5. Describe a real world example of when a conditional statement should be used in a JavaScript program.
 
-A conditional statement could be used to evaluate input from a user and branch the program according to the answer.
+   A conditional statement could be used to evaluate input from a user and branch the program according to the answer.
 
 6. Give an example of when a Loop is useful in JavaScript.
 
-A loop can be used to loop enough times to interact with every value stored in an array, and do something with each one.
+   A loop can be used to loop enough times to interact with every value stored in an array, and do something with each one.
