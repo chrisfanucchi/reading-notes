@@ -4,7 +4,7 @@
 
 1. When should you use an unordered list in your HTML document?
 
-   A \<ul> (unordered list) should be used when the order of the tiems in the list has not mean (i.e. they have no priority or number to thwm).
+   A \<ul> (unordered list) should be used when the order of the items in the list has not mean (i.e. they have no priority or number to them).
 
 2. How do you change the bullet style of unordered list items?
 
@@ -12,11 +12,11 @@
 
 3. When should you use an ordered list vs an unorder list in your HTML document?
 
-   The \<ol> (ordered list) should be used when the order of the items in the list is meanful, otherwise the \<ul> (unorderlist) should be used.
+   The \<ol> (ordered list) should be used when the order of the items in the list is meanful, otherwise the \<ul> (unordered list) should be used.
 
 4. Describe two ways you can change the numbers on list items provided by an ordered list?
 
-- Using the _start="x"_ attribrute, to set the starting number to x
+- Using the _start="x"_ attribute, to set the starting number to x
 - Using the _type_ attribute, to change the number to a letter or roamn numeral
 - Also, using the _reversed_ attribute, to reverse the order of the count
 
@@ -37,7 +37,7 @@
 
 1. What data types can you store inside of an Array?
 
-   Arrays can store trings, numbers, objects, and other arrays.
+   Arrays can store strings, numbers, objects, and other arrays.
 
 2. Is the people array a valid JavaScript array? If so, how can I access the values stored? If not, why?
 
@@ -56,7 +56,7 @@ const people = [
 - 'x += y' - Adds y to x and placed the result in x
 - 'x \*= y' - Multiplies y and x and places the result in x
 - 'x /= y' - Divides x by y and places the result in x
-- 'x &= y' - Performd a logical AND operation on x and y, and places the result in x
+- 'x &= y' - Performed a logical AND operation on x and y, and places the result in x
 - 'X++' - Increments x by 1 (equivalent of x = x + 1)
 
 4. Read the code below and evaluate the last expression and explain what the result would be and why.
