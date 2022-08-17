@@ -62,7 +62,7 @@ const people = [
 4. Read the code below and evaluate the last expression and explain what the result would be and why.
 
 - The resulting value would be the string: '10dog'
-- When being concatenated with a string, the 10 becomes a string and is combined with 'dog' and the false is dropped.
+- When being concatenated with a string, the false is converted to its binary equivalent (0), is added to the number 10, and then the 10 becomes a string and is combined with 'dog'.
 
 ```js
 let a = 10;
