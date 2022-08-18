@@ -12,8 +12,8 @@
 
 3. What are some ways we can ensure links on our pages are accessible to all readers?
 
-- Ensure to put content in between the \<a> and \</a> tags
-- Use the _title_ attribute in the element to provide addtional information about the link
+   - Ensure to put content in between the \<a> and \</a> tags
+   - Use the _title_ attribute in the element to provide addtional information about the link
 
 ## Normal Flow CSS Layout: Positioning
 
@@ -23,8 +23,8 @@
 
 2. What are a few differences between block-level and inline elements?
 
-- Block-level: Fills the available inline space of its parent container
-- Inline: Is only the size of the content itself and resides inside content of block-level elements
+   - Block-level: Fills the available inline space of its parent container
+   - Inline: Is only the size of the content itself and resides inside content of block-level elements
 
 3. \_\_\_ positioning is the default for every html element.
 
@@ -32,8 +32,8 @@
 
 4. Name a few advantages to using absolute positioning on an element.
 
-- The element no longer exists in the document flow (i.e. sits on its own layer)
-- The element can be placed in an absolute position related to proscribed distances from the edge of the containing elements sides
+   - The element no longer exists in the document flow (i.e. sits on its own layer)
+   - The element can be placed in an absolute position related to proscribed distances from the edge of the containing elements sides
 
 5. What is a key difference between fixed positioning and absolute positioning?
 
@@ -43,8 +43,8 @@
 
 1. Describe the difference between a function declaration and a function invocation.
 
-- Declaration: The code in the function is read by the system and ready to be executed
-- Invocation: The function is call and the statements inside it are executed
+   - Declaration: The code in the function is read by the system and ready to be executed
+   - Invocation: The function is call and the statements inside it are executed
 
 2. What is the difference between a parameter and an argument?
 
@@ -54,8 +54,8 @@
 
 1. Pick 2 benefits to pair programming and reflect on how these benefits could help you on your coding journey.
 
-- Learning from fellow students - There is always more to learn and you never know what ideas your co-programmer may come up with, even is they have less experience
-- Work environment readiness - Getting practice successfully pair programming will prepare me for future jobs
+   - Learning from fellow students - There is always more to learn and you never know what ideas your co-programmer may come up with, even is they have less experience
+   - Work environment readiness - Getting practice successfully pair programming will prepare me for future jobs
 
 ## Things I want to know more about
 

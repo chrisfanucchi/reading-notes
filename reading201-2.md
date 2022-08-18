@@ -22,9 +22,9 @@
 
 1. What are ways we can apply CSS to our HTML?
 
-- Within the element using style=””
-- In the HTML file, within its own block surrounded by \<style> \</style> tags
-- By linking to an external CSS file using \<link rel="stylesheet" href="filename.css">
+   - Within the element using style=””
+   - In the HTML file, within its own block surrounded by \<style> \</style> tags
+   - By linking to an external CSS file using \<link rel="stylesheet" href="filename.css">
 
 2. Why should we avoid using inline styles?
 
@@ -32,24 +32,24 @@
 
 3. Review the block of code below and answer the following questions:
 
-- What is representing the selector?
+   - What is representing the selector?
 
-  h2
+   h2
 
-- Which components are the CSS declarations?
+   - Which components are the CSS declarations?
 
-  color: black, padding: 5px
+   color: black, padding: 5px
 
-- Which components are considered properties?
+   - Which components are considered properties?
 
-  color, padding
+   color, padding
 
-  ```CSS
-  h2 {
-  color: black;
-  padding: 5px;
-  }
-  ```
+   ```CSS
+   h2 {
+   color: black;
+   padding: 5px;
+   }
+   ```
 
 ## More JavaScript Basics
 
@@ -81,5 +81,5 @@
 
 4. What is the difference between the logical operator && and \|\|?
 
-- && - Chains two or more expressions together and when ALL are true, it returns true, else false
-- \|\| - Chains two or more expressions together and when ANY are true, it returns true, else false
+   - && - Chains two or more expressions together and when ALL are true, it returns true, else false
+   - \|\| - Chains two or more expressions together and when ANY are true, it returns true, else false

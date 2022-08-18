@@ -62,4 +62,4 @@ I'd like to spend some more time reading up on color theory and the use of effec
 
 ---
 
-[^1]: Applying color to HTML elements using CSS, https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Colors/Applying_color
+[^1]: "Applying color to HTML elements using CSS", https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Colors/Applying_color
