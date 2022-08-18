@@ -33,7 +33,7 @@
 
 - Have the friend select aq base color
 - Flesh out the color palette (use a tool such as [Paletton](https://paletton.com/) or [Adobe Color](https://color.adobe.com/))
-- Also need to add some core neutral colors such as white (or nearly white), black (or nearly black), and some number of shades of gray[^1]
+- Also need to add some core neutral colors such as white (or nearly white), black (or nearly black), and some number of shades of gray [^1]
 - There are several articles on color theory, to include [Color Science](https://www.khanacademy.org/computing/pixar/color) and [Color Theory](https://en.wikipedia.org/wiki/Color_theory)
 - Consider accessibility issues (see various web resources)
 
@@ -62,4 +62,4 @@ I'd like to spend some more time reading up on color theory and the use of effec
 
 ---
 
-[^1] Applying color to HTML elements using CSS, https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Colors/Applying_color
+[^1]: Applying color to HTML elements using CSS, https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Colors/Applying_color
