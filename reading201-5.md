@@ -16,8 +16,8 @@
 
 4. Describe the difference between a gif image and an svg image, pretend you are explaining to an elder in your community.
 
-- GIF - an image that is like a photograph, that might include a little bit of motion in it
-- SVG - a more simple, but precise graphic, like a line, a aquare, or a circle, which might colors or other simple attributes applied
+   - GIF - an image that is like a photograph, that might include a little bit of motion in it
+   - SVG - a more simple, but precise graphic, like a line, a aquare, or a circle, which might colors or other simple attributes applied
 
 5. What image type would you use to display a screenshot on your website and why?
 
@@ -31,11 +31,11 @@
 
 2. Your friend asks you to give his colorless blog website a touch up. How would you use color to give his blog some character?
 
-- Have the friend select aq base color
-- Flesh out the color palette (use a tool such as [Paletton](https://paletton.com/) or [Adobe Color](https://color.adobe.com/))
-- Also need to add some core neutral colors such as white (or nearly white), black (or nearly black), and some number of shades of gray [^1]
-- There are several articles on color theory, to include [Color Science](https://www.khanacademy.org/computing/pixar/color) and [Color Theory](https://en.wikipedia.org/wiki/Color_theory)
-- Consider accessibility issues (see various web resources)
+   - Have the friend select aq base color
+   - Flesh out the color palette (use a tool such as [Paletton](https://paletton.com/) or [Adobe Color](https://color.adobe.com/))
+   - Also need to add some core neutral colors such as white (or nearly white), black (or nearly black), and some number of shades of gray [^1]
+   - There are several articles on color theory, to include [Color Science](https://www.khanacademy.org/computing/pixar/color) and [Color Theory](https://en.wikipedia.org/wiki/Color_theory)
+   - Consider accessibility issues (see various web resources)
 
 3. What should you consider when choosing fonts for an HTML document?
 
@@ -43,18 +43,18 @@
 
 4. What do font-size, font-weight, and font-style do to HTML text elements?
 
-- _font-size_ - changes the size of the text
-- _font-weight_ - set the amount of "boldness" of the text
-- _font-style_ - currently, used to turn italics on or off for text
+   - _font-size_ - changes the size of the text
+   - _font-weight_ - set the amount of "boldness" of the text
+   - _font-style_ - currently, used to turn italics on or off for text
 
 5. Describe two ways you could add spacing around the characters displayed in an h1 element.
 
-```js
-h1 {
-   letter-spacing: 2px;
-   word-spacing: 4px;
-}
-```
+   ```js
+   h1 {
+      letter-spacing: 2px;
+      word-spacing: 4px;
+   }
+   ```
 
 ## Things I want to know more about
 
