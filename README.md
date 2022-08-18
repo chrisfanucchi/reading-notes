@@ -25,7 +25,7 @@ I have been programming since the third grade, learning hexadecimal and binary r
 - [Reading 1](reading201-1.md)
 - [Reading 2](reading201-2.md)
 - [Reading 3](reading201-3.md)
-- [Reading 4](coming-soon.md)
+- [Reading 4](reading201-4.md)
 - [Reading 5](coming-soon.md)
 - [Reading 6](coming-soon.md)
 - [Reading 7](coming-soon.md)
