@@ -1,4 +1,4 @@
-# Reading: Class 1
+# Reading: Class 1 - Intro to the Web, HTML amd Javascript
 
 ## Introduction
 

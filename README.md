@@ -22,11 +22,11 @@ I have been programming since the third grade, learning hexadecimal and binary r
 
 ### Code 201
 
-- [Reading 1](reading201-1.md)
-- [Reading 2](reading201-2.md)
-- [Reading 3](reading201-3.md)
-- [Reading 4](reading201-4.md)
-- [Reading 5](reading201-5.md)
+- [Reading 1 - Intro to the Web, HTML amd Javascript](reading201-1.md)
+- [Reading 2 - Basics of HTML, CSS & JS](reading201-2.md)
+- [Reading 3 - HTML Lists, Control Flow with JS, and the CSS Box Model](reading201-3.md)
+- [Reading 4 - HTML Links, JS Functions, and Intro to CSS Layout](reading201-4.md)
+- [Reading 5 - Images, Color, Text](reading201-5.md)
 - [Reading 6 - Problem Domain, Objects, and the DOM](reading201-6.md)
 - [Reading 7](coming-soon.md)
 - [Reading 8](coming-soon.md)

@@ -1,4 +1,4 @@
-# Reading: Class 2
+# Reading: Class 2 - Basics of HTML, CSS & JS
 
 ## HTML Text Fundamentals - HTML Advanced Text Formatting
 
