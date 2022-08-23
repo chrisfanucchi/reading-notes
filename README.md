@@ -1,6 +1,6 @@
 # Code Fellows Full-Stack JavaScript Developer Course
 
-<img src="DSC_0028.JPG" width=150 align=bottom />[^1]
+<img src="DSC_0028.JPG" width=150 align=bottom /> [^1]
 
 ## About Me
 
@@ -29,7 +29,7 @@ I have been programming since the third grade, learning hexadecimal and binary r
 - [Reading 5 - Images, Color, Text](reading201-5.md)
 - [Reading 6 - Problem Domain, Objects, and the DOM](reading201-6.md)
 - [Reading 7 - Object-Oriented Programming, HTML Tables](reading201-7.md)
-- [Reading 8](coming-soon.md)
+- [Reading 8 - CSS Flexbox](reading201-8.md)
 - [Reading 9](coming-soon.md)
 - [Reading 10](coming-soon.md)
 - [Reading 11](coming-soon.md)
