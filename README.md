@@ -31,7 +31,7 @@ I have been programming since the third grade, learning hexadecimal and binary r
 - [Reading 7 - Object-Oriented Programming, HTML Tables](reading201-7.md)
 - [Reading 8 - CSS Flexbox](reading201-8.md)
 - [Reading 9 - HTML Forms and JS Events](reading201-9.md)
-- [Reading 10](coming-soon.md)
+- [Reading 10 - Debugging](reading201-10.md)
 - [Reading 11](coming-soon.md)
 - [Reading 12](coming-soon.md)
 - [Reading 13](coming-soon.md)
