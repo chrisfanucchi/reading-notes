@@ -32,7 +32,7 @@ I have been programming since the third grade, learning hexadecimal and binary r
 - [Reading 8 - CSS Flexbox](reading201-8.md)
 - [Reading 9 - HTML Forms and JS Events](reading201-9.md)
 - [Reading 10 - Debugging](reading201-10.md)
-- [Reading 11](coming-soon.md)
+- [Reading 11 - Audio, Video, Images & Grids](reading201-11.md)
 - [Reading 12](coming-soon.md)
 - [Reading 13](coming-soon.md)
 - [Reading 14](coming-soon.md)
