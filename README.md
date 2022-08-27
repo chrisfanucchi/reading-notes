@@ -1,4 +1,4 @@
-# Code Fellows Full-Stack JavaScript Developer Course
+# Code Fellows: Full-Stack JavaScript Developer Course
 
 <img src="DSC_0028.JPG" width=150 align=bottom /> [^1]
 
