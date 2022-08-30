@@ -34,7 +34,7 @@ I have been programming since the third grade, learning hexadecimal and binary r
 - [Reading 10 - Debugging](reading201-10.md)
 - [Reading 11 - Audio, Video, Images & Grids](reading201-11.md)
 - [Reading 12 - Chart.js & Canvas](reading201-12.md)
-- [Reading 13](coming-soon.md)
+- [Reading 13 - Local Storage](reading201-13.md)
 - [Reading 14](coming-soon.md)
 - [Reading 15](coming-soon.md)
 

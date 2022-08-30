@@ -1,4 +1,4 @@
-# Reading: Class 12 -
+# Reading: Class 12 - Chart.js & Canvas
 
 ## JavaScript Canvas
 
