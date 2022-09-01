@@ -36,7 +36,7 @@ I have been programming since the third grade, learning hexadecimal and binary r
 - [Reading 12 - Chart.js & Canvas](reading201-12.md)
 - [Reading 13 - Local Storage](reading201-13.md)
 - [Reading 14a - CSS Transform, Transition & Automation](reading201-14a.md)
-- [Reading 14b](reading201-14b.md)
+- [Reading 14b - What Google Learned About Building Perfect Teams](reading201-14b.md)
 - [Reading 15](coming-soon.md)
 
 ---
