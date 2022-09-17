@@ -8,7 +8,7 @@ I have been programming since the third grade, learning hexadecimal and binary r
 
 ## Class Notes
 
-### Code 102
+### Code 102 - Intro to Software Development
 
 - [Growth Mindset](mindset.md)
 - [Reading 1 - Learning Markdown](reading1.md)
@@ -20,7 +20,7 @@ I have been programming since the third grade, learning hexadecimal and binary r
 - [Reading 7 - Programming with JavaScript](reading7.md)
 - [Reading 8 - Operators and Loop](reading8.md)
 
-### Code 201
+### Code 201 - Foundations of Software Development
 
 - [Reading 1 - Intro to the Web, HTML amd Javascript](reading201-1.md)
 - [Reading 2 - Basics of HTML, CSS & JS](reading201-2.md)
@@ -38,6 +38,10 @@ I have been programming since the third grade, learning hexadecimal and binary r
 - [Reading 14a - CSS Transform, Transition & Automation](reading201-14a.md)
 - [Reading 14b - What Google Learned About Building Perfect Teams](reading201-14b.md)
 - [Reading 15](coming-soon.md)
+
+### Code 301 - Intermediate Software Development
+
+### Code 401 - Advanced Software Development
 
 ---
 
