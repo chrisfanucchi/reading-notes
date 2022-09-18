@@ -41,6 +41,8 @@ I have been programming since the third grade, learning hexadecimal and binary r
 
 ### Code 301 - Intermediate Software Development
 
+- [Reading 1 - Introduction to React and Components](reading301-1.md)
+
 ### Code 401 - Advanced Software Development
 
 ---
