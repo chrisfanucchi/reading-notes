@@ -43,6 +43,7 @@ I have been programming since the third grade, learning hexadecimal and binary r
 
 - [Reading 1 - Introduction to React and Components](reading301-1.md)
 - [Reading 2 - React: State and Props](reading301-2.md)
+- [Reading 2 - React: Passing Functions as Props](reading301-3.md)
 
 ### Code 401 - Advanced Software Development
 
