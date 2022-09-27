@@ -47,6 +47,7 @@ I have been programming since the third grade, learning hexadecimal and binary r
 - [Reading 4 - React and Forms](reading301-4.md)
 - [Reading 5 - React: Putting It All Together](reading301-5.md)
 - [Reading 6 - NODE.JS](reading301-6.md)
+- [Reading 7 - REST](reading301-7.md)
 
 ### Code 401 - Advanced Software Development
 
