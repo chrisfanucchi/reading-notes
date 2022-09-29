@@ -50,6 +50,7 @@ I have been programming since the third grade, learning hexadecimal and binary r
 - [Reading 7 - REST](reading301-7.md)
 - [Reading 8 - APIs](reading301-8.md)
 - [Reading 9 - Functional Programming](reading301-9.md)
+- [Reading 10 - In Memory Storage](reading301-10.md)
 
 ### Code 401 - Advanced Software Development
 
