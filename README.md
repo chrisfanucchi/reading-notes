@@ -49,6 +49,7 @@ I have been programming since the third grade, learning hexadecimal and binary r
 - [Reading 6 - NODE.JS](reading301-6.md)
 - [Reading 7 - REST](reading301-7.md)
 - [Reading 8 - APIs](reading301-8.md)
+- [Reading 9 - Functional Programming](reading301-9.md)
 
 ### Code 401 - Advanced Software Development
 
