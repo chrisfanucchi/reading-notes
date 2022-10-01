@@ -11,7 +11,6 @@ Fill in the chart below with five differences between SQL and NoSQL databases:
 |  predefined schema  | dynamic schema, unstructured |
 | vertically-scalable |    horizontally-scalable     |
 | structured queries  |     unstructured queries     |
-|                     |                              |
 
 1. What kind of data is a good fit for an SQL database?
 
