@@ -66,6 +66,8 @@
 
 ## Things I want to know more about
 
+I'd like to see the server setup in a little more detail.
+
 ---
 
 [^1]: _What is the main difference between PATCH and PUT request?_, Retrieved on October 3, 2022, from [https://stackoverflow.com/questions/21660791/what-is-the-main-difference-between-patch-and-put-request](https://stackoverflow.com/questions/21660791/what-is-the-main-difference-between-patch-and-put-request)
