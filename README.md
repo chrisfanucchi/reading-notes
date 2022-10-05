@@ -53,6 +53,7 @@ I have been programming since the third grade, learning hexadecimal and binary r
 - [Reading 10 - In Memory Storage](reading301-10.md)
 - [Reading 11 - Mongo and Mongoose](reading301-11.md)
 - [Reading 12 - CRUD](reading301-12.md)
+- [Reading 13 - More CRUD](reading301-13.md)
 
 ### Code 401 - Advanced Software Development
 
