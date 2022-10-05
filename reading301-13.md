@@ -20,7 +20,6 @@
    |  Read  |  GET   |
    | Update |  PUT   |
    | Delete | DELETE |
-   |        |        |
 
 2. If you had to describe the process of creating a RESTful API in 5 steps, what would they be?
 
