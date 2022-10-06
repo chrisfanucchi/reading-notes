@@ -54,6 +54,7 @@ I have been programming since the third grade, learning hexadecimal and binary r
 - [Reading 11 - Mongo and Mongoose](reading301-11.md)
 - [Reading 12 - CRUD](reading301-12.md)
 - [Reading 13 - More CRUD](reading301-13.md)
+- [Reading 14 - Diversity & Inclusion in the Tech Industry](reading301-14.md)
 
 ### Code 401 - Advanced Software Development
 
