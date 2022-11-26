@@ -59,6 +59,8 @@ I have been programming since the third grade, learning hexadecimal and binary r
 
 ### Code 401 - Advanced Software Development
 
+- [Reading 0 - Engineering](reading401-0.md)
+
 ---
 
 #### Link to my github portfolio [https://github.com/Vigilos](https://github.com/Vigilos)
