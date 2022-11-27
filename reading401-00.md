@@ -1,0 +1,5 @@
+# Reading: The Command Line
+
+I love working at the command line, as I started with computers back in the CPM operating system days. I grew up using DOS and Unix. What I like most about it is that I feel in complete control of what I am doing. I can type out exactly what I want to operating system to do and not have to guess what Windows, MacOS, etc., is going to do all on its own in the background. File manipulation is simple and precise, and everything you need to know about a file (permissions, name, size, etc.) can all be easily seen in one place, in th terminal. I also like being able to make scripts (called batch files in DOS) that will execute several commands or run a simple, interactive routine with just one command from the user. While windows based, GUI interfaces are easier to use, when it comes to knowing exactly what you OS is up to, there is no substitute for running things at the command line.
+
+[Linux Command Cheat Sheet](https://ryanstutorials.net/linuxtutorial/cheatsheet.php)
