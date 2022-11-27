@@ -60,7 +60,8 @@ I have been programming since the third grade, learning hexadecimal and binary r
 ### Code 401 - Advanced Software Development
 
 - [Growth Mindset](mindset.md)
-- [Reading 0 - Engineering](reading401-0.md)
+- [Engineering](reading401-0.md)
+- [The Command Line](reading401-00.md)
 
 ---
 
