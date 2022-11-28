@@ -62,6 +62,7 @@ I have been programming since the third grade, learning hexadecimal and binary r
 - [Growth Mindset](mindset.md)
 - [Engineering](reading401-0.md)
 - [The Command Line](reading401-00.md)
+- [Data Structures and Algorithms](reading401-000.md)
 
 ---
 
